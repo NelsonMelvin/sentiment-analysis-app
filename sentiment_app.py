@@ -10,7 +10,6 @@ Original file is located at
 import streamlit as st
 import joblib
 
-!pip install streamlit
 import streamlit as st
 import joblib
 
